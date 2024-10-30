@@ -1,0 +1,909 @@
+# Copyright (C) 2020 Mnumi
+# This file is distributed under the same license as the MnumiDesigner plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: mnumidesigner 0.7.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mnumidesigner\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-11-13T00:17:24+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: mnumidesigner\n"
+
+#. Plugin Name of the plugin
+#: admin/class-mnumidesigner-settings.php:355
+#: admin/woocommerce/class-mnumidesigner-wc-product.php:219
+msgid "MnumiDesigner"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://mnumidesigner.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "MnumiDesigner is an online application for photo products. You can design photo calendars, photo albums or any other photo products sold in WooCommerce."
+msgstr ""
+
+#. Author of the plugin
+msgid "Mnumi"
+msgstr ""
+
+#: admin/class-mnumidesigner-calendars-list-table.php:48
+msgid "Create new calendar"
+msgstr ""
+
+#: admin/class-mnumidesigner-calendars-list-table.php:51
+msgid "Edit calendar"
+msgstr ""
+
+#: admin/class-mnumidesigner-calendars-list-table.php:102
+#: admin/class-mnumidesigner-calendars-list-table.php:140
+msgid "Calendars"
+msgstr ""
+
+#: admin/class-mnumidesigner-calendars-list-table.php:142
+#: admin/class-mnumidesigner-templates-list-table.php:162
+#: admin/class-mnumidesigner-translations-list-table.php:141
+msgid "Add New"
+msgstr ""
+
+#: admin/class-mnumidesigner-calendars-list-table.php:167
+#: admin/class-mnumidesigner-translations-list-table.php:166
+#: includes/admin/backbone/html-calendars.php:18
+#: includes/admin/backbone/html-translations.php:18
+msgid "Name"
+msgstr ""
+
+#: admin/class-mnumidesigner-calendars-list-table.php:168
+#: includes/admin/backbone/html-calendars.php:22
+#: includes/admin/backbone/html-new-project-template-form.php:17
+msgid "Type"
+msgstr ""
+
+#: admin/class-mnumidesigner-calendars-list-table.php:169
+#: admin/class-mnumidesigner-translations-list-table.php:167
+#: includes/admin/backbone/html-calendars.php:31
+msgid "Locale"
+msgstr ""
+
+#: admin/class-mnumidesigner-calendars-list-table.php:170
+#: admin/class-mnumidesigner-translations-list-table.php:169
+msgid "Last modified"
+msgstr ""
+
+#: admin/class-mnumidesigner-calendars-list-table.php:195
+#: admin/class-mnumidesigner-customer-projects-list-table.php:292
+#: admin/class-mnumidesigner-templates-list-table.php:406
+#: admin/class-mnumidesigner-translations-list-table.php:194
+#: admin/woocommerce/class-mnumidesigner-wc-order-data.php:161
+#: includes/admin/backbone/html-wc-product.php:32
+msgid "Edit"
+msgstr ""
+
+#: admin/class-mnumidesigner-calendars-list-table.php:201
+#: admin/class-mnumidesigner-customer-projects-list-table.php:306
+#: admin/class-mnumidesigner-templates-list-table.php:422
+#: admin/class-mnumidesigner-translations-list-table.php:200
+#: includes/admin/backbone/html-calendars.php:100
+msgid "Delete"
+msgstr ""
+
+#: admin/class-mnumidesigner-customer-projects-list-table.php:104
+msgid "Projects"
+msgstr ""
+
+#: admin/class-mnumidesigner-customer-projects-list-table.php:142
+msgid "Customer projects"
+msgstr ""
+
+#: admin/class-mnumidesigner-customer-projects-list-table.php:159
+#: admin/class-mnumidesigner-templates-list-table.php:208
+msgid "Thumb"
+msgstr ""
+
+#: admin/class-mnumidesigner-customer-projects-list-table.php:160
+#: admin/class-mnumidesigner-templates-list-table.php:209
+msgid "Project ID"
+msgstr ""
+
+#: admin/class-mnumidesigner-customer-projects-list-table.php:161
+#: admin/class-mnumidesigner-templates-list-table.php:210
+msgid "Linked to"
+msgstr ""
+
+#: admin/class-mnumidesigner-customer-projects-list-table.php:162
+#: admin/class-mnumidesigner-templates-list-table.php:211
+msgid "Created At"
+msgstr ""
+
+#: admin/class-mnumidesigner-customer-projects-list-table.php:163
+#: admin/class-mnumidesigner-templates-list-table.php:212
+msgid "Updated At"
+msgstr ""
+
+#: admin/class-mnumidesigner-customer-projects-list-table.php:164
+#: admin/class-mnumidesigner-templates-list-table.php:213
+#: admin/class-mnumidesigner-templates-list-table.php:216
+msgid "Remove At"
+msgstr ""
+
+#: admin/class-mnumidesigner-customer-projects-list-table.php:299
+#: admin/class-mnumidesigner-templates-list-table.php:415
+msgid "Duplicate"
+msgstr ""
+
+#: admin/class-mnumidesigner-customer-projects-list-table.php:310
+#: admin/class-mnumidesigner-templates-list-table.php:426
+msgid "Restore"
+msgstr ""
+
+#: admin/class-mnumidesigner-settings.php:115
+msgid "API Access"
+msgstr ""
+
+#: admin/class-mnumidesigner-settings.php:121
+msgid "Woocommerce"
+msgstr ""
+
+#: admin/class-mnumidesigner-settings.php:127
+msgid "Additional"
+msgstr ""
+
+#: admin/class-mnumidesigner-settings.php:144
+msgid "API Key"
+msgstr ""
+
+#: admin/class-mnumidesigner-settings.php:155
+msgid "\"Add to Cart\" button label"
+msgstr ""
+
+#: admin/class-mnumidesigner-settings.php:166
+msgid "Emulate HTTP requests"
+msgstr ""
+
+#: admin/class-mnumidesigner-settings.php:177
+msgid "API Host"
+msgstr ""
+
+#: admin/class-mnumidesigner-settings.php:191
+msgid "Products with attached MnumiDesigner template will have this text displayed in Add to Cart button"
+msgstr ""
+
+#: admin/class-mnumidesigner-settings.php:204
+msgid "When Wordpress server does not understand some HTTP Methods, e.g.: DELETE, this option should be turned on"
+msgstr ""
+
+#: admin/class-mnumidesigner-settings.php:205
+msgid "More info"
+msgstr ""
+
+#: admin/class-mnumidesigner-settings.php:228
+msgid "Enter with your API Key."
+msgstr ""
+
+#: admin/class-mnumidesigner-settings.php:239
+msgid "Enter with your API Key ID"
+msgstr ""
+
+#: admin/class-mnumidesigner-settings.php:275
+msgid "Settings"
+msgstr ""
+
+#: admin/class-mnumidesigner-settings.php:380
+msgid "Buy Pro version"
+msgstr ""
+
+#: admin/class-mnumidesigner-settings.php:431
+msgid "Personalize"
+msgstr ""
+
+#: admin/class-mnumidesigner-templates-list-table.php:58
+#: admin/woocommerce/class-mnumidesigner-wc-product.php:177
+#: admin/woocommerce/class-mnumidesigner-wc-product.php:331
+msgid "Create new template"
+msgstr ""
+
+#: admin/class-mnumidesigner-templates-list-table.php:122
+#: admin/class-mnumidesigner-templates-list-table.php:160
+msgid "Templates"
+msgstr ""
+
+#: admin/class-mnumidesigner-templates-list-table.php:167
+msgid "Search Templates"
+msgstr ""
+
+#: admin/class-mnumidesigner-translations-list-table.php:48
+msgid "Create new translation"
+msgstr ""
+
+#: admin/class-mnumidesigner-translations-list-table.php:51
+msgid "Edit translation"
+msgstr ""
+
+#: admin/class-mnumidesigner-translations-list-table.php:101
+#: admin/class-mnumidesigner-translations-list-table.php:139
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-translations-controller.php:524
+msgid "Translations"
+msgstr ""
+
+#: admin/class-mnumidesigner-translations-list-table.php:168
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-translations-controller.php:491
+msgid "Translation domain"
+msgstr ""
+
+#: admin/woocommerce/class-mnumidesigner-wc-order-data.php:97
+#: includes/woocommerce/class-mnumidesigner-wc-cart.php:226
+#: includes/woocommerce/class-mnumidesigner-wc-cart.php:260
+msgid "Project"
+msgstr ""
+
+#: admin/woocommerce/class-mnumidesigner-wc-order-data.php:127
+msgid "Not found"
+msgstr ""
+
+#: admin/woocommerce/class-mnumidesigner-wc-order-data.php:167
+msgid "Download PDF"
+msgstr ""
+
+#: admin/woocommerce/class-mnumidesigner-wc-order-data.php:169
+msgid "Download PDF Album"
+msgstr ""
+
+#: admin/woocommerce/class-mnumidesigner-wc-order-data.php:183
+#: admin/woocommerce/class-mnumidesigner-wc-order-data.php:201
+msgid "Download PDF Cover"
+msgstr ""
+
+#: admin/woocommerce/class-mnumidesigner-wc-order-data.php:205
+#: admin/woocommerce/class-mnumidesigner-wc-order-data.php:225
+msgid "Download PDF Book"
+msgstr ""
+
+#: admin/woocommerce/class-mnumidesigner-wc-product.php:188
+#: admin/woocommerce/class-mnumidesigner-wc-product.php:334
+msgid "Attach existing template"
+msgstr ""
+
+#: admin/woocommerce/class-mnumidesigner-wc-product.php:242
+msgid "Number of pages in customer project"
+msgstr ""
+
+#: admin/woocommerce/class-mnumidesigner-wc-product.php:243
+msgid "Number of pages"
+msgstr ""
+
+#: admin/woocommerce/class-mnumidesigner-wc-product.php:245
+msgid "Enter number of pages customer projects should have."
+msgstr ""
+
+#: admin/woocommerce/class-mnumidesigner-wc-product.php:258
+msgid "Additional price per page"
+msgstr ""
+
+#: admin/woocommerce/class-mnumidesigner-wc-product.php:285
+msgid "Custom translation"
+msgstr ""
+
+#: admin/woocommerce/class-mnumidesigner-wc-product.php:314
+msgid "Custom calendars"
+msgstr ""
+
+#: admin/woocommerce/class-mnumidesigner-wc-product.php:381
+msgid "Click to toggle"
+msgstr ""
+
+#: class-mnumidesigner.php:261
+msgid "View MnumiDesigner documentation"
+msgstr ""
+
+#: class-mnumidesigner.php:262
+msgid "Docs"
+msgstr ""
+
+#: class-mnumidesigner.php:267
+msgid "Contact"
+msgstr ""
+
+#: class-mnumidesigner.php:331
+msgid "Your MnumiDesigner plugin needs to be configured to work properly"
+msgstr ""
+
+#: class-mnumidesigner.php:332
+msgid "Enter your MnumiDesigner Api access credentials"
+msgstr ""
+
+#. translators: %s api access expiration date
+#: class-mnumidesigner.php:341
+msgid "You are using demo version of MnumiDesigner plugin which means that you can use it until: %s"
+msgstr ""
+
+#: class-mnumidesigner.php:414
+msgid "All"
+msgstr ""
+
+#: class-mnumidesigner.php:415
+msgid "Own"
+msgstr ""
+
+#: class-mnumidesigner.php:416
+msgid "Global"
+msgstr ""
+
+#: class-mnumidesigner.php:417
+msgid "Pending removal"
+msgstr ""
+
+#: class-mnumidesigner.php:428
+msgid "Filter by template type"
+msgstr ""
+
+#: class-mnumidesigner.php:429
+#: includes/admin/backbone/html-new-project-template-form.php:23
+msgid "Custom"
+msgstr ""
+
+#: class-mnumidesigner.php:430
+#: includes/admin/backbone/html-new-project-template-form.php:25
+msgid "Album"
+msgstr ""
+
+#: class-mnumidesigner.php:431
+#: includes/admin/backbone/html-new-project-template-form.php:27
+msgid "Calendar"
+msgstr ""
+
+#: includes/admin/backbone/html-calendars.php:25
+msgid "Name days"
+msgstr ""
+
+#: includes/admin/backbone/html-calendars.php:26
+msgid "National days"
+msgstr ""
+
+#: includes/admin/backbone/html-calendars.php:54
+msgid "Date"
+msgstr ""
+
+#: includes/admin/backbone/html-calendars.php:55
+msgid "Is cyclic?"
+msgstr ""
+
+#: includes/admin/backbone/html-calendars.php:56
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-calendars-controller.php:546
+msgid "Event name"
+msgstr ""
+
+#: includes/admin/backbone/html-calendars.php:58
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-calendars-controller.php:557
+msgid "Event type"
+msgstr ""
+
+#: includes/admin/backbone/html-calendars.php:60
+msgid "Actions"
+msgstr ""
+
+#: includes/admin/backbone/html-calendars.php:72
+#: includes/admin/backbone/html-calendars.php:95
+msgid "Holiday"
+msgstr ""
+
+#: includes/admin/backbone/html-calendars.php:76
+msgid "Add"
+msgstr ""
+
+#: includes/admin/backbone/html-new-project-template-form.php:29
+msgid "Business card"
+msgstr ""
+
+#: includes/admin/backbone/html-new-project-template-form.php:37
+msgid "Width"
+msgstr ""
+
+#: includes/admin/backbone/html-new-project-template-form.php:41
+msgid "Height"
+msgstr ""
+
+#: includes/admin/backbone/html-pagination.php:35
+msgid "First page"
+msgstr ""
+
+#: includes/admin/backbone/html-pagination.php:41
+msgid "Previous page"
+msgstr ""
+
+#: includes/admin/backbone/html-pagination.php:47
+msgid "Current Page"
+msgstr ""
+
+#: includes/admin/backbone/html-pagination.php:64
+msgid "Next page"
+msgstr ""
+
+#: includes/admin/backbone/html-pagination.php:70
+msgid "Last page"
+msgstr ""
+
+#: includes/admin/backbone/html-translations.php:22
+msgid "Base locale"
+msgstr ""
+
+#: includes/admin/backbone/html-translations.php:25
+msgid "English"
+msgstr ""
+
+#: includes/admin/backbone/html-translations.php:26
+msgid "Polish"
+msgstr ""
+
+#: includes/admin/backbone/html-translations.php:37
+msgid "Id"
+msgstr ""
+
+#: includes/admin/backbone/html-translations.php:38
+msgid "Original"
+msgstr ""
+
+#: includes/admin/backbone/html-translations.php:39
+msgid "Translation"
+msgstr ""
+
+#: includes/admin/backbone/html-wc-product.php:22
+msgid "ID"
+msgstr ""
+
+#: includes/admin/backbone/html-wc-product.php:23
+msgid "Pages count"
+msgstr ""
+
+#: includes/admin/backbone/html-wc-product.php:28
+msgid "Detach"
+msgstr ""
+
+#: includes/admin/backbone/html-wc-product.php:76
+msgid "Attach"
+msgstr ""
+
+#: includes/admin/backbone/html-wc-product.php:85
+msgid "Load more"
+msgstr ""
+
+#: includes/class-mnumidesigner-api-client.php:57
+msgid "MnumiDesigner connection is not configured"
+msgstr ""
+
+#: includes/class-mnumidesigner-api.php:104
+msgid "Unable to authorize with MnumiDesigner server. Check your API Access credentials."
+msgstr ""
+
+#: includes/class-mnumidesigner-api.php:466
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:776
+msgid "The project cannot be deleted."
+msgstr ""
+
+#: includes/class-mnumidesigner-backbone-list-table.php:169
+msgid "No items found."
+msgstr ""
+
+#: includes/class-mnumidesigner-backbone-list-table.php:211
+msgid "Select bulk action"
+msgstr ""
+
+#: includes/class-mnumidesigner-backbone-list-table.php:215
+msgid "Bulk Actions"
+msgstr ""
+
+#: includes/class-mnumidesigner-backbone-list-table.php:227
+msgid "Apply"
+msgstr ""
+
+#: includes/class-mnumidesigner-backbone-list-table.php:495
+msgid "Select All"
+msgstr ""
+
+#: includes/class-mnumidesigner-backbone-list-table.php:721
+msgid "Show more details"
+msgstr ""
+
+#: includes/class-mnumidesigner-backbone-list-table.php:744
+msgid "Error"
+msgstr ""
+
+#: includes/class-mnumidesigner-backbone-list-table.php:757
+msgid "Loading..."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-calendars-controller.php:62
+msgid "Unique identifier of the calendar."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-calendars-controller.php:105
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-translations-controller.php:105
+msgid "Filter collection by object name."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-calendars-controller.php:110
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:242
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:394
+msgid "Filter collection by object type."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-calendars-controller.php:284
+msgid "Calendar already exists."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-calendars-controller.php:381
+msgid "Calendar file is not a file."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-calendars-controller.php:385
+msgid "Insufficient file permissions for removing calendar."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-calendars-controller.php:391
+msgid "Calendar cannot be deleted."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-calendars-controller.php:493
+msgid "Unique id of calendar"
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-calendars-controller.php:499
+msgid "Name for calendar."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-calendars-controller.php:505
+msgid "Calendar type"
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-calendars-controller.php:512
+msgid "Locale of calendar."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-calendars-controller.php:518
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-translations-controller.php:510
+msgid "The date the object was last modified, in the site's timezone."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-calendars-controller.php:525
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-translations-controller.php:517
+msgid "URL to the object"
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-calendars-controller.php:532
+msgid "Calendar events"
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-calendars-controller.php:540
+msgid "Event date"
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-calendars-controller.php:552
+msgid "Is event cyclic?"
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:65
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:97
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:126
+msgid "The ID for the parent of the object."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:83
+msgid "Template ID of project to attach to product."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:101
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:130
+msgid "Template ID of project ."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:142
+msgid "Product variation id."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:216
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:254
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:259
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:351
+msgid "Offset the result set by a specific number of items."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:223
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:358
+msgid "Order sort attribute ascending or descending."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:231
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:366
+msgid "Sort collection by object attribute."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:299
+msgid "Template does not exist."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:307
+msgid "Template is not attached."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:444
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:498
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:551
+msgid "Product does not exist."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:459
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:511
+msgid "Project does not exist."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:463
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:515
+msgid "Project is not a template."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:467
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:519
+msgid "Project is already attached."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:691
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:1016
+msgid "An alphanumeric identifier for the project."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:697
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:1022
+msgid "Machine type of the project."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:703
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:1028
+msgid "Localized type of the project."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:709
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:1034
+msgid "Label of the project."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:715
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:1040
+msgid "Creation date of the project."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:722
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:1047
+msgid "Last modification date of the project."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:729
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:1054
+msgid "Number of pages in the project."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:735
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:1066
+msgid "Indicates if project is derived from template."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:741
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:1072
+msgid "Template ID the derived project is based on."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:747
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:1078
+msgid "Indicates if project is global."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-products-controller.php:753
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:1084
+msgid "Indicates if project will be removed"
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:55
+msgid "Type of newly created project."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:67
+msgid "Width (in mm) of page in project."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:76
+msgid "Height (in mm) of page in project."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:84
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:121
+msgid "URL to redirect back to after creating project."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:105
+msgid "Woocommerce product ID."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:113
+msgid "Number of pages in created project."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:126
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:190
+msgid "Available templates provided as base for project."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:141
+msgid "The ID of the project."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:174
+msgid "The ID of the project to redirect to."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:184
+msgid "URL to redirect back to after saving project."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:205
+msgid "The ID of the project to duplicate."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:224
+msgid "The ID of the project to restore."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:377
+msgid "Filter collection by object ids."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:383
+msgid "Filter collection by template id."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:389
+msgid "Fiter collection by object attribute."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:406
+msgid "Filter collection to objects changeable page count."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:411
+msgid "Filter collection to objects with provided page count."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:417
+msgid "Filter collection to objects with removal date set."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:422
+msgid "Filter collection by object ownership."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:649
+msgid "MnumiDesigner configuration is not set."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:729
+msgid "Problem when duplicating project."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:734
+msgid "The project cannot be duplicated."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:816
+msgid "The project cannot be restored."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:849
+msgid "The project cannot be found."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:1060
+msgid "Number of priceable pages in the project"
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:1090
+msgid "Date when project will be removed"
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:1097
+msgid "Products to which this project is attached to"
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-projects-controller.php:1117
+msgid "WooCommerce Order Items to which this project is attached to"
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-settings-controller.php:238
+msgid "Secret key ID"
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-settings-controller.php:244
+msgid "Secret key"
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-settings-controller.php:250
+msgid "Domain to which redirect to when opening designer."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-settings-controller.php:256
+msgid "Available project types"
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-settings-controller.php:262
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-settings-controller.php:274
+msgid "Is demo version access"
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-settings-controller.php:268
+msgid "Is demo version active"
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-translations-controller.php:62
+msgid "Unique identifier of the translation."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-translations-controller.php:110
+msgid "Filter collection by object locale."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-translations-controller.php:286
+msgid "Translation already exists."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-translations-controller.php:371
+msgid "Translation file is not a file."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-translations-controller.php:375
+msgid "Insufficient file permissions for removing translation."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-translations-controller.php:381
+msgid "Translation cannot be deleted."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-translations-controller.php:479
+msgid "Unique id of translation"
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-translations-controller.php:485
+msgid "Name for translation."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-translations-controller.php:498
+msgid "Locale of translation."
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-translations-controller.php:504
+msgid "Translation fallback locale"
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-translations-controller.php:532
+msgid "ID of translation entry"
+msgstr ""
+
+#: includes/rest-api/endpoints/class-mnumidesigner-rest-translations-controller.php:538
+msgid "Translation value"
+msgstr ""
+
+#: includes/shortcodes/class-mnumidesigner-shortcode-edit-project-link.php:38
+msgid "Edit project"
+msgstr ""
+
+#: includes/woocommerce/class-mnumidesigner-wc-cart.php:110
+msgid "Add to cart"
+msgstr ""
+
+#: includes/woocommerce/class-mnumidesigner-wc-cart.php:182
+msgid "Invalid project ID"
+msgstr ""
+
+#: includes/woocommerce/shortcodes/class-mnumidesigner-wc-shortcode-new-project-link.php:33
+msgid "Add project"
+msgstr ""
